@@ -1,4 +1,4 @@
-# Discord Webhook Sender in java
+# Send Webhook Messages With Java!
 An java code to send discord messages though Webhook <br>
 you can use it in your code but at least give me a credit, Contributes are welcome. 
 
